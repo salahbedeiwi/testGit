@@ -24,6 +24,7 @@
       <li><a href="#">Page 5</a></li>
 	  <li><a href="#">Page 6</a></li>
 	  <li><a href="#">Page 7</a></li>
+	  <li><a href="#">Page 8</a></li>
 	  
     </ul>
   </div>
