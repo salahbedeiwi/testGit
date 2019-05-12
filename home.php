@@ -12,7 +12,8 @@
   <!-- Main Page -->
 <div class="container">
   <h3>Home Page</h3>
-  <p>More about homepage</p>
+  <p>We design and developer websites</p>
+  <p>We create applications</p>
 </div>
 
 </body>
