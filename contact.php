@@ -13,6 +13,8 @@
 <div class="container">
   <h3>Contact us</h3>
   <p>Contact Us</p>
+  <div>You may contact us at 612.644.xxxx</div>
+  <div></div>
 </div>
 
 </body>
