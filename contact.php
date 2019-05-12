@@ -11,8 +11,8 @@
 <body>
   <!-- Main Page -->
 <div class="container">
-  <h3>Using Git</h3>
-  <p>Head Pointer</p>
+  <h3>Contact us</h3>
+  <p>Contact Us</p>
 </div>
 
 </body>

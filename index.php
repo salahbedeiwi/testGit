@@ -13,6 +13,8 @@
 <div class="container">
   <h3>Using Git</h3>
   <p>Head Pointer</p>
+  <p>Head Pointer</p>
+  <p>Head Pointer</p>
 </div>
 
 </body>
