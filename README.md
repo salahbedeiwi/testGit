@@ -1,7 +1,7 @@
 # Test Git Project
 
 
-[Salah Bedeiwi](https://salahbedeiwi.com) - Developer
+[Salah Bedeiwi](https://salahbedeiwi.com) - **Developer**
 
 ## How to use Git?
 ```
