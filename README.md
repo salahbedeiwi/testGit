@@ -1,5 +1,8 @@
 # Test Git Project
 
+
+[Salah Bedeiwi](https://salahbedeiwi.com) - Developer
+
 ## How to use Git?
 ```
 1. git init
